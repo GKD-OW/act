@@ -20,12 +20,13 @@ Game Jam是一种特定的活动形式，在Game Jam中开发者要求在规定�
 
 
 ### 2020.12.21活动奖品
-| 奖品                      | 分配           | 图片展示（图源网络）                                                       |
-| ------------------------- | -------------- | ------------------------------------------------------------ |
-| Dva 手办（430rmb）        | 第一名         | <img src="https://s3.ax1x.com/2020/12/16/rl24rq.jpg" style="zoom:28%;" /> |
-| 源氏飞镖（59RMB） X 2     | 第二名         | <img src="https://s3.ax1x.com/2020/12/16/rl2hMn.jpg" style="zoom:28%;" /> |
-| 发光dva钥匙扣（89RMB）X 1 | 第三名         | <img src="https://s3.ax1x.com/2020/12/16/rl25q0.png" style="zoom: 28%;" /> |
-| 五百强鼠标垫（35RMB）     | 前三名每人一个 | <img src="https://s3.ax1x.com/2020/12/16/rl2oZV.jpg" style="zoom: 7%;" /> |
+
+|           奖品            |      分配      |                     图片展示（图源网络）                     |
+| :-----------------------: | :------------: | :----------------------------------------------------------: |
+|    Dva 手办（430RMB）     |     第一名     | <img src="https://s3.ax1x.com/2020/12/16/rl24rq.jpg" style="zoom:25%;" /> |
+|   源氏飞镖（59RMB） X 2   |     第二名     | <img src="https://s3.ax1x.com/2020/12/16/rl2hMn.jpg" style="zoom:25%;" /> |
+| 发光dva钥匙扣（89RMB）X 1 |     第三名     | <img src="https://s3.ax1x.com/2020/12/16/rl25q0.png" style="zoom: 25%;" /> |
+|   五百强鼠标垫（35RMB）   | 前三名每人一个 | <img src="https://s3.ax1x.com/2020/12/16/rl2oZV.jpg" style="zoom: 8%;" /> |
 
 感谢清隽若曦#5484的个人收藏Dva手办、乌云云精美的自制鼠标垫、和守望先锋赞助的手办！
 
