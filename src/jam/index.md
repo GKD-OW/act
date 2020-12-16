@@ -23,7 +23,7 @@ Game Jam是一种特定的活动形式，在Game Jam中开发者要求在规定�
 
 |           奖品            |      分配      |                     图片展示（图源网络）                     |
 | :-----------------------: | :------------: | :----------------------------------------------------------: |
-|    Dva 手办（430RMB）     |     第一名     | <img src="https://s3.ax1x.com/2020/12/16/rl24rq.jpg" style="zoom:25%;" /> |
+|    Dva 手办（430RMB）     |     第一名     | <img src="https://i.loli.net/2020/12/16/VTvKeJgCMiplGED.jpg" style="zoom:25%;" /> |
 |   源氏飞镖（59RMB） X 2   |     第二名     | <img src="https://s3.ax1x.com/2020/12/16/rl2hMn.jpg" style="zoom:25%;" /> |
 | 发光dva钥匙扣（89RMB）X 1 |     第三名     | <img src="https://s3.ax1x.com/2020/12/16/rl25q0.png" style="zoom: 25%;" /> |
 |   五百强鼠标垫（35RMB）   | 前三名每人一个 | <img src="https://s3.ax1x.com/2020/12/16/rl2oZV.jpg" style="zoom: 8%;" /> |
