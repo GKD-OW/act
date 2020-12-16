@@ -1,4 +1,4 @@
-# 熔火工坊创意赛--活动须知
+# 熔火工坊创意赛---活动须知
 
 ### 什么是熔火工坊创意赛？
 
@@ -25,6 +25,7 @@ Game Jam是一种特定的活动形式，在Game Jam中开发者要求在规定�
 | 源氏飞镖（59RMB） X 2     | 第二名         | <img src="https://imgchr.com/i/rl2hMn" style="zoom:33%;" /> |
 | 发光dva钥匙扣（89RMB）X 1 | 第三名         | <img src="https://s3.ax1x.com/2020/12/16/rl25q0.png" style="zoom: 33%;" /> |
 | 五百强鼠标垫（35RMB） X3  | 前三名每人一个 | <img src="https://imgchr.com/i/rl2oZV" style="zoom: 10%;" /> |
+
 感谢**清隽若曦#5484、乌云云、守望先锋**的赞助！
 
 ### **怎样的作品更容易获奖？**
@@ -70,4 +71,5 @@ Game Jam是一种特定的活动形式，在Game Jam中开发者要求在规定�
 - 泷涯
 - Zesty
 - RIG
+
 请在群内艾特或私信联系管理人员。
